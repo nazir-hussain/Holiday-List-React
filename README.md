@@ -9,7 +9,6 @@ Filter this list for your website:-<br>
 Goa(India), Amsterdam(Netherlands), New York(USA), Darjeeling(India), Tokyo(Japan), Lonavala(India)
 
 Acceptance criteria
-
 1. Make an ordered list for the cities
 2. Add key to every list element in the format location1, location2.
 3. If your are making a nested component for each city name, then apply the above key to the respective parent component.
