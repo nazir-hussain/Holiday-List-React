@@ -5,6 +5,7 @@ class App extends Component {
   constructor(props) {
     super(props);
 
+    
     this.cityList = [
       { name: "Goa", country: "India" },
       { name: "Amsterdam", country: "Netherlands" },
@@ -69,4 +70,5 @@ class App extends Component {
     );
   }
 }
+
 export default App;
