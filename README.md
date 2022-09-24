@@ -16,5 +16,3 @@ Acceptance criteria
 
 
 
-
-
