@@ -14,5 +14,3 @@ Acceptance criteria
 3. If your are making a nested component for each city name, then apply the above key to the respective parent component.
 4. Write your code in App.js
 
-
-
